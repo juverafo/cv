@@ -124,6 +124,13 @@ section{
   margin: 30px;
 }
 
+p{
+  font-size: large;
+}
+h3{
+  font-size: 1.5rem;
+}
+
 .orange{
   border-top: 5px solid #e47d26;
   background-color: rgba(228, 117, 38, 0.15);
@@ -174,7 +181,6 @@ section{
   nav li:hover a{
     padding: 5px 10px 10px 10px;
   }
-
   .text{
    width: 50%;
   }
@@ -184,5 +190,8 @@ section{
 
   .sec1 {
     flex-direction: column;
+  }
+  .rightexp{
+  margin-left: 0px;
   }
 }
